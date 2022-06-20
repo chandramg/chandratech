@@ -1,3 +1,3 @@
 # chandra tech
 
-chandra learning git hub
+chandra learning git hub test repo demonistration
